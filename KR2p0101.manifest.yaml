@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0101_001.yaml, hash: 'sha256:546718c95534a89c96cf26d4d3131378db4d43e3f8bf61e91475424753e403a8'}
+  - {seq: 1, filename: KR2p0101_001.yaml, hash: 'sha256:36f427419a2a63a23602f4c92a2210eb0a84c788e25cb7e3b0934910f12a138b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0101_001.markers.yaml, hash: 'sha256:fa7f06dcc2121f422bcdea6b0af2dafe6ebf1f15593758b42d7587333189ea07'}
+  - {seq: 1, role: markers, filename: assets/KR2p0101_001.markers.yaml, hash: 'sha256:1e4424ada4fd55d96c9978734281e70ed30144384a6785a9972fadf5d88af415'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 武威漢簡甲本士相見之禮釋文
   type: section
   level: 1
-hash: sha256:769f92209c0ec853ff9e606939a249b0aaf1839ee575d5c83e206d2ef99706ba
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b76f8cd997ba6e342017efe9b69ac14ca7253e4d6abd9b463cfd22bacaaf4602
