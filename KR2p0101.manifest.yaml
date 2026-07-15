@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0101/v1
 canonical_location: https://kanripo.org/bkk/KR2p0101/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 甲本士相見之禮釋文
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0101_001.yaml, hash: 'sha256:36f427419a2a63a23602f4c92a2210eb0a84c788e25cb7e3b0934910f12a138b'}
+  - {seq: 1, filename: KR2p0101_001.yaml, hash: 'sha256:a219a8d830bec2ec9ff0da8d20a87b5b80db55c5fea0f24e8bb41b4e2db6beaf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0101_001.markers.yaml, hash: 'sha256:1e4424ada4fd55d96c9978734281e70ed30144384a6785a9972fadf5d88af415'}
+  - {seq: 1, role: markers, filename: assets/KR2p0101_001.markers.yaml, hash: 'sha256:4b0c1230b426d2c8ab6d39c1faa5e057ad62d52fb680e80505edb1277f9efb22'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 武威漢簡甲本士相見之禮釋文
   type: section
   level: 1
-hash: sha256:b76f8cd997ba6e342017efe9b69ac14ca7253e4d6abd9b463cfd22bacaaf4602
+hash: sha256:3bdc424078f0392093307d54be78bec2679a1556e0e617fc378234ce4b5055ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
